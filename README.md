@@ -1,13 +1,5 @@
 # PYTHON PARA EL ANÁLISIS DE DATOS
+### Comparto éste repositorio escrito y organizado por mi para cualquier persona que lo necesite. 
 #### Python es uno de los lenguajes de programacion actualmente más utilizados y con mayor potencial para el análisis de datos complejos. Veremos los principales elementos para en manejo de datos y cómo manipularlos.
-
-### ELEMENTOS PARA EL ANÁLISIS DE DATOS
-#### LISTAS
-Una lista en python es basicamente una **secuencia** de valores a los cuales se les asigna una variable, cada uno de los valores dentro de una lista va separado por comas y entre corchetes. Cada valor en una lista tiene un *numero de indice* asignad, que es basicamente el orden en el cual estan puestos. El primer elemento de una lista responde al elemento **0**, el segundo al **1** y así sucesivamente. 
-
-``` python
-planets = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"]
-print("The first planet is", planets[0])
-print("The second planet is", planets[1])
-print("The third planet is", planets[2])
-```
+#### Este pequeño curso es un conjunto de talleres informáticos y cursos virtuales que he hecho a lo largo de éstos últimos años en los que aprendi python por cuenta propia, considero que esta organizado de una forma práctica y simple para avocarse directamente al análisis de datos y tener una base en la misma, aun así python es un lenguage muy amplio y con inumerables aplicaciones por lo que recomiendo no limitarse a algunos cursos sino tratar de hacer la mayor cantidad posible.
+#### Sin mucho más que agregar espero les sirva a alguien!
